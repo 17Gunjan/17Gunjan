@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @17Gunjan
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... UI Developement and Designs.
+- 🌱 I’m currently learning ... Reactjs and Related frameworks.
+- 💞️ I’m looking to collaborate on ... Front End Developement - Reactjs, HTML, CSS, BootStrap.
 - 📫 How to reach me ... https://www.linkedin.com/in/gunjan-patil-396242168/
 
 <!---
